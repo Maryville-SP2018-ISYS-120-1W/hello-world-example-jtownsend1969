@@ -19,7 +19,12 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    @IBOutlet weak var messageLabel: UILabel!
 
+    @IBAction func onPushButton(_ sender: Any) {
+        messageLabel.text = "Hello to you to!"
+    }
 
 }
 

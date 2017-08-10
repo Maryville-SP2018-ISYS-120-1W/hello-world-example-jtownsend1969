@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var messageLabel: UILabel!
 
     @IBAction func onPushButton(_ sender: Any) {
-        messageLabel.text = "Hello to you to!"
+        messageLabel.text = "Hello to you too!"
     }
 
 }

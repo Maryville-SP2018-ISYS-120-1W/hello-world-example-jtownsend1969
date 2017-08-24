@@ -1,6 +1,5 @@
-# Hello World!
-## Week 1 Lecture Development Example
-
+# Week 1 Lecture Development Example: Hello World!
+ 
 ### Lecture Development Examples Overview
 
 The purpose of lecture development examples is for you, the instructor, to have a finished application that is appropriate for you to build in class. This repository is the finished product. The expectation is that you would construct this, from scratch, with the students.

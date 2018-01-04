@@ -1,4 +1,4 @@
-# Week 1 Lecture Development Example: Hello World!
+# In Class Development Example: Hello World!
  
 ### Lecture Development Examples Overview
 
